@@ -1,0 +1,65 @@
+2/25/26, 8:08 PM
+
+SM.
+
+Sujeet Madihalli | ML Engineer
+
+fh Professional Experience
+
+ 
+
+Va
+
+ 
+
+Cloud Operations Engineer (Data & Automation)
+Oracle
+i Jun 2024 - Aug 2025 © Bangalore, India
+« Engineered Python-based ETL pipelines to automate data reporting, achieving a
+25% gain in data-driven efficiency.
+
+« Developed anomaly detection scripts to proactively identify irregularities in SaaS
+platform logs (CRMOD, OTM), reducing manual investigation time by 10+
+hours/week.
+
+« Optimized cloud infrastructure reliability by implementing automated health checks
+and self-healing scripts.
+
+ 
+
+ 
+
+Va
+
+ 
+
+\
+
+Senior Software Engineer
+Subex Ltd
+
+3 Aug 2021 - May 2024 © Bangalore, India
+
+« Architected Python/Shell automation suites for large-scale telecom datasets,
+reducing manual data processing effort by 70%.
+
+« Designed proactive monitoring frameworks to detect data stream anomalies,
+improving resolution time by 40%.
+
+« Collaborated on production-grade data pipelines, ensuring high availability and
+integrity of analytics workflows.
+
+ 
+
+7
+
+ 
+
+Machine Learning Intern
+
+https://portfolio-sujeet-7ce13.web.app/#texperience
+
+ 
+
+218
+

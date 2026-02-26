@@ -1,0 +1,38 @@
+2/25/26, 8:08 PM Sujeet Madihalli | ML Engineer
+
+Verzeo
+
+SM. Ei May 2019 - July 2019 © Bangalore, India
+
+« Built a Facial Emotion Recognition model using TensorFlow and Haar Cascade
+
+ 
+
+classifiers, achieving 92% accuracy.
+
+« Developed an NLP-based text summarization tool leveraging NLTK for efficient
+information retrieval.
+
+« Gained hands-on experience with Computer Vision and Natural Language
+Processing pipelines.
+
+ 
+
+@ Education
+
+ 
+
+University of Maryland, College Park
+Master of Science in Data Science
+
+©) Aug 2025 - May 2027 GPA: 4.0/4.0
+
+Key Coursework: Probability & Statistics, Principles of ML, Big Data Systems, Algorithms for
+Data Science
+
+ 
+
+https://portfolio-sujeet-7ce13.web.app/#texperience
+
+3/8
+

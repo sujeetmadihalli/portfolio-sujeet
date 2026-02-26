@@ -1,0 +1,174 @@
+SUJEET MADIHALLI
+Senior Software Engineer
+CONTACT
+
+(IN) 9606529094
+sujeetmadihalli@gmail.com
+Bangalore, India
+
+•
+
+•
+•
+•
+
+I want to secure a position in a company that challenges my skills, updates
+my current knowledge, and sharpens my training. I want to broaden my
+horizons and gain a different perspective so that I can look at the same thing
+from a variety of angles.
+
+linkedin.com/in/sujeetmadihalli/
+
+EXPERIENCE
+
+https://github.com/
+sujeetmadihalli
+
+Subex – Senior Software Engineer (Aug 2021 – present)
+
+EXTRACURRICULAR
+ACTIVITIES
+
+•
+
+RESUME OBJECTIVE
+
+Participated in HackathonAvalanche tech fest.
+Participated in paper
+presentation (self-driving
+car).
+Part of the technical team
+that organized AURA 19.
+Member of GIT Rotaract Club.
+Member of Esports Club of
+GIT.
+
+-Automation using python and shell scripting, developed a complete
+internal website using CSS, python, JavaScript and deployed in docker,
+Providing OSS & BSS support on Fraud management and Revenue
+assurance Product to various Telcos based out of Europe Region.
+Prominent Projects: Vodafone Turkey, Telekom Slovenia, Vodafone
+Romania, Swisscom etc.
+
+Verzeo.in – Intern
+- Built a model that detects face from an input image using Machine
+Learning, system uses TensorFlow and Haar-Cascade classifier for
+the same.
+
+EDUCATION
+
+KEY SKILLS
+•
+•
+•
+•
+•
+•
+•
+
+Python, Java, HTML, CSS
+Data Structures, ML, Docker,
+Hadoop
+Automation
+OS, DBMS and Networking
+Shell Scripting
+Linux, Debugging and Problem
+Solving
+Customer Communication,
+Time Management.
+
+Course
+
+Institution
+
+Score
+
+Year of
+completion
+
+BE (Computer
+Science and
+Engineering)
+
+KLS Gogte
+Institute of
+Technology
+
+9.15 CGPA
+
+2021
+
+XII Grade
+
+Alva’s
+Education
+Foundation
+
+93%
+
+2017
+
+X Grade
+
+Uday High School
+(State)
+
+88%
+
+2015
+
+INTERESTS
+
+•
+•
+•
+
+Machine Learning
+Data Science
+Physics
+
+MAJOR PROJECTS
+
+•
+
+Designed and developed an internal website using HTML/CSS,
+Python, PHP and JavaScript using docker as a container, where in
+details of all Customers and Server related information of the
+product is stored in an easy to access webpages and python for
+predictive data for the next month.
+
+CERTIFICATIONS
+
+•
+•
+•
+•
+•
+•
+
+Machine Learning (Coursera)
+HackerRank Python (5 stars)
+Python for Data Science
+(NPTEL)
+SQL (Stanford University)
+Introduction to programming
+using Python (MTA)
+IELTS – 7.5 band
+
+Project Handbook (Subex)
+
+•
+
+•
+
+Automated Time-Table Generation (B.E)
+System which automatically generates Time-Table for the
+institution using Genetic algorithm and provides a portal for the
+faculty or the students to view and download the time-table.
+Facial Emotion Detection (Internship)
+Python programmed project using OpenCV library and TensorFlow.
+This project uses webcam of a laptop or a PC as an input and shows
+the emotion of the person in the image took using webcam as an
+output.
+
+

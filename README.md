@@ -4,11 +4,11 @@ A modern, fast, and responsive personal portfolio website built with React and T
 
 ![Portfolio Preview Preview](public/logo512.png)
 
-## 🌐 Live Demo
+##  Live Demo
 
 **View the live site here:** [https://portfolio-sujeet-7ce13.web.app](https://portfolio-sujeet-7ce13.web.app)
 
-## ✨ Features
+##  Features
 
 - **Modern UI/UX:** Built with Tailwind CSS for a clean, professional, and fully responsive design.
 - **Dark/Light Mode:** Includes a fully functional theme toggle.
@@ -23,14 +23,14 @@ A modern, fast, and responsive personal portfolio website built with React and T
   - `Contact`: Direct contact information and email integration.
 - **Serverless Hosting:** Continuously deployed and hosted on Firebase.
 
-## 🛠️ Built With
+##  Built With
 
 - **React.js** (Functional Components, Hooks)
 - **Tailwind CSS** (Utility-first styling, Custom Animations)
 - **Lucide React** (Modern SVG Icons)
 - **Firebase Hosting** (Deployment and CI/CD)
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 To get a local copy up and running, follow these simple steps.
 
@@ -60,7 +60,7 @@ You need Node.js and npm installed on your machine.
    ```
    *The application will open automatically in your browser at `http://localhost:3000`.*
 
-## 📦 Deployment
+##  Deployment
 
 This project is configured to deploy to Firebase Hosting. 
 
@@ -74,7 +74,7 @@ To build and deploy manually:
    firebase deploy --only hosting
    ```
 
-## 📬 Contact
+##  Contact
 
 **Sujeet Madihalli** - [sujeetmadihalli@gmail.com](mailto:sujeetmadihalli@gmail.com)
 

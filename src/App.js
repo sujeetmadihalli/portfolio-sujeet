@@ -35,7 +35,7 @@ const PERSONAL_INFO = {
   linkedin: "https://www.linkedin.com/in/sujeet-madihalli/",
   github: "https://github.com/sujeetmadihalli/",
   about: "Master's student in Data Science at UMD with 4+ years of engineering experience. I specialize in building scalable ML pipelines, automating complex data workflows, and deploying predictive models into production. My background in Cloud Operations allows me to bridge the gap between model development and reliable deployment (MLOps).",
-  resumeLink: "Docs/Sujeet_Madihalli_Resume.pdf"
+  resumeLink: "Docs/Sujeet_Madihalli_Technical.pdf"
 };
 
 const EXPERIENCE = [

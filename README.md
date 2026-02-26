@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Sujeet Madihalli | Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, fast, and responsive personal portfolio website built with React and Tailwind CSS. Showcasing my experience, education, skills, and projects in Data Science, Machine Learning, and Cloud Operations.
 
-## Available Scripts
+![Portfolio Preview Preview](public/logo512.png)
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+**View the live site here:** [https://portfolio-sujeet-7ce13.web.app](https://portfolio-sujeet-7ce13.web.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Modern UI/UX:** Built with Tailwind CSS for a clean, professional, and fully responsive design.
+- **Dark/Light Mode:** Includes a fully functional theme toggle.
+- **Dynamic Animations:** Features scroll-reveal effects, a typewriter effect in the hero section, and 3D tilt interactions on project cards.
+- **Structured Content Sections:**
+  - `Hero`: Introduction with a typewriter effect and resume download.
+  - `Experience`: Interactive timeline of professional roles.
+  - `Education`: Academic background and coursework.
+  - `Projects`: Filterable grid of key projects (ML, Data Engineering, Computer Vision, etc.) with 3D tilt effects.
+  - `Skills`: Categorized technical proficiencies with modern icons.
+  - `Certifications`: Links to official credentials.
+  - `Contact`: Direct contact information and email integration.
+- **Serverless Hosting:** Continuously deployed and hosted on Firebase.
 
-### `npm test`
+## 🛠️ Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React.js** (Functional Components, Hooks)
+- **Tailwind CSS** (Utility-first styling, Custom Animations)
+- **Lucide React** (Modern SVG Icons)
+- **Firebase Hosting** (Deployment and CI/CD)
 
-### `npm run build`
+## 🚀 Getting Started Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running, follow these simple steps.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You need Node.js and npm installed on your machine.
+- Node.js (v14 or higher recommended)
+- npm
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sujeetmadihalli/portfolio-sujeet.git
+   ```
+2. **Navigate into the directory**
+   ```bash
+   cd portfolio-sujeet
+   ```
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+4. **Start the development server**
+   ```bash
+   npm start
+   ```
+   *The application will open automatically in your browser at `http://localhost:3000`.*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 Deployment
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is configured to deploy to Firebase Hosting. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To build and deploy manually:
+1. Compile a production build:
+   ```bash
+   npm run build
+   ```
+2. Deploy to Firebase:
+   ```bash
+   firebase deploy --only hosting
+   ```
 
-## Learn More
+## 📬 Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Sujeet Madihalli** - [sujeetmadihalli@gmail.com](mailto:sujeetmadihalli@gmail.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**LinkedIn** - [https://www.linkedin.com/in/sujeet-madihalli/](https://www.linkedin.com/in/sujeet-madihalli/)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**GitHub** - [https://github.com/sujeetmadihalli/](https://github.com/sujeetmadihalli/)
